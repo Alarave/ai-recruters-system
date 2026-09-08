@@ -1,0 +1,9 @@
+groq
+langchain
+pypdf
+gradio
+faiss-cpu
+sentence-transformers
+langchain-experimental
+rank_bm25
+pydantic
